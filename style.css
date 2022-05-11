@@ -176,7 +176,6 @@ h3 {
 .phone, .mail, .github {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
-
